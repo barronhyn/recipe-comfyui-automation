@@ -1,0 +1,2 @@
+# RunPod serverless SDK (GPU environment only)
+runpod>=1.6.0
